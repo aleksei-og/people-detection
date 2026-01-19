@@ -66,6 +66,7 @@ people-detection/
 ├── README.md                  # Документация
 ├── crowd.mp4                  # Исходное видео
 └── crowd_detected.mp4         # Результат обработки
+└── colab.ipynb                # Файл для запуска через google colab
 ```
 
 ## Описание кода
