@@ -4,6 +4,17 @@
 Программа для автоматического обнаружения и отрисовки людей на видео с использованием YOLOv8.
 Выходной файл - crowd_detected.mp4
 
+Можете просто запустить проект через google colab, ничего не устанавливая: 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleksei-og/people-detection/blob/main/colab.ipynb)
+
+Запустите все ячейки, во второй высветится кнопка, вставьте файл crowd.mp4
+
+После исполнения кода файл с детекцией скачается на ваш пк.
+
+
+
+
 ## Содержание
 - Требования
 - Установка
