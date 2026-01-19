@@ -6,6 +6,8 @@
 
 **Можете просто запустить проект через google colab, ничего не устанавливая:** 
 
+**Чистоту кода просьба оценивать именно по main.py, файл colab.ipynb нужен только для удобства проверки.**
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleksei-og/people-detection/blob/main/colab.ipynb)
 
 Запустите все ячейки, во второй высветится кнопка, вставьте файл crowd.mp4
